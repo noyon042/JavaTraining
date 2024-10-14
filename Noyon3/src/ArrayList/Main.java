@@ -6,7 +6,6 @@ import java.util.List;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		List<Product> products=new ArrayList<>();
 		products.add(new Product("Apple","Fruits", 5, 200, 5*200));
